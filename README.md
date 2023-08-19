@@ -7,13 +7,13 @@
 - Algorithms
 	- [X] Flat
 		- 1_similarity_search.ipynb
-	- [ ] IVF
-		- 
-	- [ ] HNSW
-		- 
-	- [ ] ANNOY
-		- 
-	- [ ] SQ
-		- 
-	- [ ] PQ
-		- 
+	- [-] IVF
+		- .ipynb
+	- [-] HNSW
+		- .ipynb
+	- [-] ANNOY
+		- .ipynb
+	- [-] SQ
+		- .ipynb
+	- [-] PQ
+		- .ipynb
