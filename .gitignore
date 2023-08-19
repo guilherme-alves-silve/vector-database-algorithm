@@ -1,4 +1,4 @@
-data/
+data/cv/*
 venv/
 notebooks/image_df.pkl
 .ipynb_checkpoints
