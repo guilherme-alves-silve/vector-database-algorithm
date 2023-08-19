@@ -1,0 +1,4 @@
+data/
+venv/
+notebooks/image_df.pkl
+.ipynb_checkpoints
