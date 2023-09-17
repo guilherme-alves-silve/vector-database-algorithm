@@ -11,7 +11,7 @@
 		- 2_ivf_similarity_search.ipynb
 	- [X] ANNOY
 		- 3_annoy_similarity_search.ipynb
-	- [ ] HNSW
+	- [X] HNSW
 		- 4_hnsw_similarity_search.ipynb
 	- [ ] SQ
 		- .ipynb
